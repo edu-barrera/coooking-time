@@ -22,8 +22,7 @@ To run this project locally, follow these steps:
 
    ```
 
-2. Navigate to the project directory:
-   cd recipe-web-app
+2. Navigate to the project directory
 
 3. Install dependencies:
    npm install
