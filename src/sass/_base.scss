@@ -1,13 +1,12 @@
-// $color-primary: #f59a83;
-$color-primary: #f38e82;
-$color-grad-1: #fbdb89;
-$color-grad-2: #f48982;
+$color-primary: #992222; // Deep red
+$color-grad-1: #883333; // Gradient start (deep red)
+$color-grad-2: #1b3b4b; // Gradient end (teal)
 
 $color-grey-light-1: #f9f5f3; // Light background
 $color-grey-light-2: #f2efee; // Light lines
 $color-grey-light-3: #d3c7c3; // Light text (placeholder)
-$color-grey-dark-1: #615551; // Normal text
-$color-grey-dark-2: #918581; // Lighter text
+$color-grey-dark-1: #3e322e; // Darker text
+$color-grey-dark-2: #5a4945; // Darker light text
 
 $gradient: linear-gradient(to right bottom, $color-grad-1, $color-grad-2);
 
